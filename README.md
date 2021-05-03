@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francisco-07
+- 👋 Hi, I’m @Francisco
 - 👀 I’m interested in learning front end!
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any kind of project releated to front end
