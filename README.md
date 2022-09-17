@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Francisco
-- 👀 I’m interested in learning front end!
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any kind of project releated to front end
+- 👀 I’m a front end developer
+- 💞️ I’m looking to collaborate on any kind of project releated to web dev
 - 📫 How to reach me in my email francisco.garciarena94@gmail.com
 
 <!---
